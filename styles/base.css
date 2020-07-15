@@ -68,13 +68,13 @@ iframe {
 .col {
   flex-grow: 1;
   padding: 1rem;
-  background-image: url('../japanese-cherry-blossom-pattern-820x532.webp');
-  background-position: center;
 }
 
 .banner {
   min-height: 25vh;
   padding: 5rem 1rem;
+  background-image: url('../japanese-cherry-blossom-pattern-820x532.webp');
+  background-position: center;
   background-repeat: no-repeat;
   object-fit: cover;
 }
