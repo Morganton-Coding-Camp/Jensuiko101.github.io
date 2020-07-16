@@ -96,3 +96,15 @@ iframe {
   width: auto;
   border-radius: 50%;
 }
+
+.favorite-food {
+  background: #90ee90;
+}
+
+.favorite-hobby {
+  background :#c1e1ec;
+}
+
+.favorite-animal {
+  background: #ffffad;
+}
