@@ -76,7 +76,7 @@ iframe {
   background-image: url('../japanese-cherry-blossom-pattern-820x532.webp');
   background-position: center;
   background-repeat: no-repeat;
-  object-fit: cover;
+  background-size: cover;
 }
 
 .banner-text {
@@ -93,6 +93,6 @@ iframe {
 
 .profile-img {
   max-height: 50vh;
-width: auto;
+  width: auto;
   border-radius: 50%;
 }
