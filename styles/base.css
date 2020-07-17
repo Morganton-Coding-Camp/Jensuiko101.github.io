@@ -130,7 +130,7 @@ iframe {
   border-radius: 0.75rem;
   font-size: 9rem;
   border: 1px solid white;
-  transition: border .3s ease;
+  transition: border .3s ease-in-out;
 }
 
 .btn-1:hover {
