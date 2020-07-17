@@ -2,4 +2,4 @@
 Starter code for website where I'm going to talk about my favorite things.
 
 # Link
- https://morganton-coding-camp.github.io/Jensuiko101.github.io/
+ https://rb.gy/vn6ipx
